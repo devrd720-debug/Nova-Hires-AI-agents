@@ -1,0 +1,15 @@
+{
+  "name": "JobPilot AI",
+  "description": "Autonomous AI-powered job search platform with specialized agents (Hunter, Tailor, Networker, Nova) for automated job discovery, resume tailoring, outreach, and interview prep.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Agents",
+    "Automated Job Search",
+    "Tailored Resumes",
+    "Networker Outreach",
+    "Interview Coaching"
+  ]
+}
