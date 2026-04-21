@@ -19,7 +19,7 @@ export default function Login() {
     <div className="min-h-screen bg-slate-950 flex flex-col justify-center items-center p-6">
       <div className="w-full max-w-sm space-y-8 bg-slate-900 border border-slate-800 p-8 rounded-3xl shadow-2xl">
         <div className="flex flex-col items-center gap-2">
-          <img src="/logo.png" alt="NovaHire" className="h-16 w-auto" />
+          <img src="/assets/logo.svg" alt="NovaHire" className="h-16 w-auto" />
           <h1 className="text-2xl font-bold text-white tracking-tighter">NovaHire</h1>
         </div>
         

@@ -33,7 +33,7 @@ export default function Layout() {
         <div className="p-8 pb-10">
           <div className="p-8 pb-10">
           <div className="flex items-center gap-3 group cursor-pointer">
-          <img src="/logo.png" alt="NovaHire" className="h-8 w-auto" />
+          <img src="/assets/logo.svg" alt="NovaHire" className="h-8 w-auto" />
           <span className="text-xl font-bold tracking-tight uppercase text-slate-900">NovaHire</span>
           </div>
         </div>
