@@ -23,7 +23,7 @@ View your app in AI Studio: https://ai.studio/apps/5098319b-a7d4-4711-bc66-737e7
 
 The site is served by Firebase Hosting from the Vite build output (`dist/`).
 
-**Prerequisites:** [Firebase CLI](https://firebase.google.com/docs/cli) (`npm install -g firebase-tools`) and access to the `nova-hires-ai-agents` Firebase project.
+**Prerequisites:** [Firebase CLI](https://firebase.google.com/docs/cli) (`npm install -g firebase-tools`) and access to the `novahires-ai-2026` Firebase project.
 
 1. Build the site:
    `npm run build`
